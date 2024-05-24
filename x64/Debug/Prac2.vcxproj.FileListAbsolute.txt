@@ -1,0 +1,15 @@
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.vcxproj.AssemblyReference.cache
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.vcxproj.SuggestedBindingRedirects.cache
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyForm.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.vcxproj.GenerateResource.cache
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormMenu.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormAdd.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormGraphCategory.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormGraphMaker.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormGraph.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormDelete.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormSelectId.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormEdit.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormSearch.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormGraphForm.resources
+D:\C++\Prac2\Prac2\x64\Debug\Prac2.MyFormSort.resources
