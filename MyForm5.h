@@ -14,7 +14,7 @@ namespace Prac2 {
 	using namespace System::Drawing;
 
 	/// <summary>
-	/// Сводка для MyForm5
+	/// lllllllllllllllll MyForm5
 	/// </summary>
 	public ref class MyForm5 : public System::Windows::Forms::Form
 	{
@@ -35,7 +35,7 @@ namespace Prac2 {
 
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// llllllllllllllllllllllllllllllllll.
 		/// </summary>
 		~MyForm5()
 		{
@@ -54,14 +54,14 @@ namespace Prac2 {
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// lllllllll пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 		/// </summary>
 		System::ComponentModel::Container ^components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// l пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ l lllllllllllllllllllllllllllll пїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ 
+		/// пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -82,7 +82,7 @@ namespace Prac2 {
 			this->buttonOk->Name = L"buttonOk";
 			this->buttonOk->Size = System::Drawing::Size(132, 55);
 			this->buttonOk->TabIndex = 5;
-			this->buttonOk->Text = L"Готово";
+			this->buttonOk->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonOk->UseVisualStyleBackColor = false;
 			this->buttonOk->Click += gcnew System::EventHandler(this, &MyForm5::button1_Click);
 			// 
@@ -95,7 +95,7 @@ namespace Prac2 {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(418, 60);
 			this->label1->TabIndex = 4;
-			this->label1->Text = L"Введите id элемента, \r\nкоторый хотите изменить\r\n";
+			this->label1->Text = L"llllllllllll id lllllllllllllll, \r\nпїЅпїЅпїЅпїЅпїЅпїЅпїЅ lllllllllllllllll lllllllllllllllll\r\n";
 			// 
 			// numericUpDownId
 			// 
@@ -121,7 +121,7 @@ namespace Prac2 {
 			this->MaximizeBox = false;
 			this->Name = L"MyForm5";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Выбор элемента для изменения";
+			this->Text = L"l llllllllll lllllllllll lllllllll";
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->numericUpDownId))->EndInit();
 			this->ResumeLayout(false);
 			this->PerformLayout();
@@ -138,7 +138,7 @@ namespace Prac2 {
 			}
 		}
 		if (flag) {
-			MessageBox::Show("Элемента с таким индексом нет в списке!");
+			MessageBox::Show("lll l пїЅпїЅllllllllllllllllllllпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ!");
 		}
 		else {
 			MyForm6^ f7 = gcnew MyForm6(medicines, n, last, dataGridView1);

@@ -21,7 +21,7 @@ namespace Prac2 {
 
 
 	/// <summary>
-	/// Сводка для MyForm1
+	/// llllllllllllllllllll MyForm1
 	/// </summary>
 	public ref class MyForm1 : public System::Windows::Forms::Form
 	{
@@ -78,7 +78,7 @@ namespace Prac2 {
 		}
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// lllllllllllllllllllllllllll.
 		/// </summary>
 		~MyForm1()
 		{
@@ -110,14 +110,14 @@ namespace Prac2 {
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 		/// </summary>
 		System::ComponentModel::Container ^components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// llllllllllllllllllllllllll llllllllllllllllllllllllllllllllll 
+		/// lllllllllllllllllllllllllllllllllllll пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -155,7 +155,7 @@ namespace Prac2 {
 			this->buttonUpdate->Name = L"buttonUpdate";
 			this->buttonUpdate->Size = System::Drawing::Size(222, 57);
 			this->buttonUpdate->TabIndex = 4;
-			this->buttonUpdate->Text = L"Обновить таблицу";
+			this->buttonUpdate->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonUpdate->UseVisualStyleBackColor = false;
 			this->buttonUpdate->Click += gcnew System::EventHandler(this, &MyForm1::buttonUpdate_Click);
 			// 
@@ -171,7 +171,7 @@ namespace Prac2 {
 			this->buttonDelete->Name = L"buttonDelete";
 			this->buttonDelete->Size = System::Drawing::Size(222, 59);
 			this->buttonDelete->TabIndex = 5;
-			this->buttonDelete->Text = L"Удалить элемент";
+			this->buttonDelete->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonDelete->UseVisualStyleBackColor = false;
 			this->buttonDelete->Click += gcnew System::EventHandler(this, &MyForm1::buttonDelete_Click);
 			// 
@@ -187,7 +187,7 @@ namespace Prac2 {
 			this->buttonEdit->Name = L"buttonEdit";
 			this->buttonEdit->Size = System::Drawing::Size(222, 58);
 			this->buttonEdit->TabIndex = 6;
-			this->buttonEdit->Text = L"Изменить элемент";
+			this->buttonEdit->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonEdit->UseVisualStyleBackColor = false;
 			this->buttonEdit->Click += gcnew System::EventHandler(this, &MyForm1::buttonEdit_Click);
 			// 
@@ -203,7 +203,7 @@ namespace Prac2 {
 			this->buttonAdd->Name = L"buttonAdd";
 			this->buttonAdd->Size = System::Drawing::Size(222, 58);
 			this->buttonAdd->TabIndex = 7;
-			this->buttonAdd->Text = L"Создать элемент";
+			this->buttonAdd->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonAdd->UseVisualStyleBackColor = false;
 			this->buttonAdd->Click += gcnew System::EventHandler(this, &MyForm1::buttonAdd_Click);
 			// 
@@ -219,7 +219,7 @@ namespace Prac2 {
 			this->buttonGraph->Name = L"buttonGraph";
 			this->buttonGraph->Size = System::Drawing::Size(222, 58);
 			this->buttonGraph->TabIndex = 8;
-			this->buttonGraph->Text = L"График";
+			this->buttonGraph->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonGraph->UseVisualStyleBackColor = false;
 			this->buttonGraph->Click += gcnew System::EventHandler(this, &MyForm1::buttonGraph_Click);
 			// 
@@ -235,7 +235,7 @@ namespace Prac2 {
 			this->buttonSaveTXT->Name = L"buttonSaveTXT";
 			this->buttonSaveTXT->Size = System::Drawing::Size(222, 59);
 			this->buttonSaveTXT->TabIndex = 9;
-			this->buttonSaveTXT->Text = L"Сохранить в файл";
+			this->buttonSaveTXT->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ";
 			this->buttonSaveTXT->UseVisualStyleBackColor = false;
 			this->buttonSaveTXT->Click += gcnew System::EventHandler(this, &MyForm1::buttonSaveTXT_Click);
 			// 
@@ -251,7 +251,7 @@ namespace Prac2 {
 			this->buttonReadTXT->Name = L"buttonReadTXT";
 			this->buttonReadTXT->Size = System::Drawing::Size(222, 59);
 			this->buttonReadTXT->TabIndex = 10;
-			this->buttonReadTXT->Text = L"Читать из файла";
+			this->buttonReadTXT->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ";
 			this->buttonReadTXT->UseVisualStyleBackColor = false;
 			this->buttonReadTXT->Click += gcnew System::EventHandler(this, &MyForm1::buttonReadTXT_Click);
 			// 
@@ -266,7 +266,7 @@ namespace Prac2 {
 			this->buttonExit->Name = L"buttonExit";
 			this->buttonExit->Size = System::Drawing::Size(222, 51);
 			this->buttonExit->TabIndex = 11;
-			this->buttonExit->Text = L"Выход";
+			this->buttonExit->Text = L"пїЅпїЅпїЅпїЅпїЅ";
 			this->buttonExit->UseVisualStyleBackColor = false;
 			this->buttonExit->Click += gcnew System::EventHandler(this, &MyForm1::buttonExit_Click);
 			// 
@@ -282,7 +282,7 @@ namespace Prac2 {
 			this->buttonSearch->Name = L"buttonSearch";
 			this->buttonSearch->Size = System::Drawing::Size(222, 48);
 			this->buttonSearch->TabIndex = 12;
-			this->buttonSearch->Text = L"Поиск";
+			this->buttonSearch->Text = L"пїЅпїЅпїЅпїЅпїЅ";
 			this->buttonSearch->UseVisualStyleBackColor = false;
 			this->buttonSearch->Click += gcnew System::EventHandler(this, &MyForm1::buttonSearch_Click);
 			// 
@@ -319,7 +319,7 @@ namespace Prac2 {
 			// Column1
 			// 
 			this->Column1->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::Fill;
-			this->Column1->HeaderText = L"Название";
+			this->Column1->HeaderText = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->Column1->MinimumWidth = 6;
 			this->Column1->Name = L"Column1";
 			this->Column1->ReadOnly = true;
@@ -327,7 +327,7 @@ namespace Prac2 {
 			// Column2
 			// 
 			this->Column2->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::Fill;
-			this->Column2->HeaderText = L"Производитель";
+			this->Column2->HeaderText = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->Column2->MinimumWidth = 6;
 			this->Column2->Name = L"Column2";
 			this->Column2->ReadOnly = true;
@@ -335,7 +335,7 @@ namespace Prac2 {
 			// Column3
 			// 
 			this->Column3->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::Fill;
-			this->Column3->HeaderText = L"Категория";
+			this->Column3->HeaderText = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->Column3->MinimumWidth = 6;
 			this->Column3->Name = L"Column3";
 			this->Column3->ReadOnly = true;
@@ -343,7 +343,7 @@ namespace Prac2 {
 			// Column4
 			// 
 			this->Column4->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::Fill;
-			this->Column4->HeaderText = L"Форма выпуска";
+			this->Column4->HeaderText = L"пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->Column4->MinimumWidth = 6;
 			this->Column4->Name = L"Column4";
 			this->Column4->ReadOnly = true;
@@ -351,7 +351,7 @@ namespace Prac2 {
 			// Column5
 			// 
 			this->Column5->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::AllCells;
-			this->Column5->HeaderText = L"Цена";
+			this->Column5->HeaderText = L"пїЅпїЅпїЅпїЅ";
 			this->Column5->MinimumWidth = 6;
 			this->Column5->Name = L"Column5";
 			this->Column5->ReadOnly = true;
@@ -360,7 +360,7 @@ namespace Prac2 {
 			// Column6
 			// 
 			this->Column6->AutoSizeMode = System::Windows::Forms::DataGridViewAutoSizeColumnMode::AllCells;
-			this->Column6->HeaderText = L"Количество";
+			this->Column6->HeaderText = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->Column6->MinimumWidth = 6;
 			this->Column6->Name = L"Column6";
 			this->Column6->ReadOnly = true;
@@ -377,7 +377,7 @@ namespace Prac2 {
 			this->buttonSort->Name = L"buttonSort";
 			this->buttonSort->Size = System::Drawing::Size(222, 57);
 			this->buttonSort->TabIndex = 14;
-			this->buttonSort->Text = L"Сортировка";
+			this->buttonSort->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
 			this->buttonSort->UseVisualStyleBackColor = false;
 			this->buttonSort->Click += gcnew System::EventHandler(this, &MyForm1::buttonSort_Click);
 			// 
@@ -404,7 +404,7 @@ namespace Prac2 {
 			this->MaximizeBox = false;
 			this->Name = L"MyForm1";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Меню";
+			this->Text = L"пїЅпїЅпїЅпїЅ";
 			this->Load += gcnew System::EventHandler(this, &MyForm1::MyForm1_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->EndInit();
 			this->ResumeLayout(false);
@@ -415,12 +415,12 @@ namespace Prac2 {
 		Close();
 	}
 private: System::Void buttonAdd_Click(System::Object^ sender, System::EventArgs^ e) {
-	//добавление элемента
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	MyForm2^ f3 = gcnew MyForm2(medicines, last, dataGridView1);
 	f3->Show();
 }
 private: System::Void buttonUpdate_Click(System::Object^ sender, System::EventArgs^ e) {
-	//обновление таблицы
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	while (0 != dataGridView1->RowCount)
 		dataGridView1->Rows->RemoveAt(0);
 	for (int i = 0; i < *last; ++i) {
@@ -437,7 +437,7 @@ private: System::Void buttonUpdate_Click(System::Object^ sender, System::EventAr
 private: System::Void tableLayoutPanel1_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
 }
 private: System::Void buttonEdit_Click(System::Object^ sender, System::EventArgs^ e) {
-	//изменение элемента
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	if (*last > 0) {
 		MyForm5^ f6 = gcnew MyForm5(medicines, last, n, dataGridView1);
 		f6->Show();
@@ -464,21 +464,21 @@ private: System::Void buttonReadTXT_Click(System::Object^ sender, System::EventA
 	}
 }
 private: System::Void buttonDelete_Click(System::Object^ sender, System::EventArgs^ e) {
-	//удаление элемента
+	//пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 	if (*last > 0) {
 		MyForm4^ f5 = gcnew MyForm4(medicines, last, n, dataGridView1);
 		f5->Show();
 	}
 }
 private: System::Void buttonGraph_Click(System::Object^ sender, System::EventArgs^ e) {
-	//график
+	//пїЅпїЅпїЅпїЅпїЅпїЅ
 	if (*last > 0) {
 		MyForm3^ f4 = gcnew MyForm3(medicines, last, dataGridView1);
 		f4->Show();
 	}
 }
 private: System::Void buttonSearch_Click(System::Object^ sender, System::EventArgs^ e) {
-	//поиск
+	//пїЅпїЅпїЅпїЅпїЅ
 	if (*last > 0) {
 		MyForm7^ f8 = gcnew MyForm7(medicines, last, dataGridView1);
 		f8->Show();

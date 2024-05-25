@@ -13,7 +13,7 @@ namespace Prac2 {
 	using namespace System::Drawing;
 
 	/// <summary>
-	/// Сводка для MyForm
+	///  MyForm
 	/// </summary>
 	
 	Medicine medicines[102]{};
@@ -32,7 +32,7 @@ namespace Prac2 {
 
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// kkkkkkkkkkkkkkkkkk.
 		/// </summary>
 		~MyForm()
 		{
@@ -63,14 +63,13 @@ namespace Prac2 {
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// llllllllllllllllllllll.
 		/// </summary>
 
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// llllllllllllllllllllllllllllll.
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -100,7 +99,7 @@ namespace Prac2 {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(782, 29);
 			this->label1->TabIndex = 3;
-			this->label1->Text = L"Приветствуем вас в нашей замечательной программе!";
+			this->label1->Text = L"пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ!";
 			// 
 			// label2
 			// 
@@ -113,7 +112,7 @@ namespace Prac2 {
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(168, 45);
 			this->label2->TabIndex = 4;
-			this->label2->Text = L"Аптека";
+			this->label2->Text = L"llllllllllll";
 			this->label2->Click += gcnew System::EventHandler(this, &MyForm::label2_Click);
 			// 
 			// buttonExit
@@ -127,7 +126,7 @@ namespace Prac2 {
 			this->buttonExit->Name = L"buttonExit";
 			this->buttonExit->Size = System::Drawing::Size(227, 95);
 			this->buttonExit->TabIndex = 5;
-			this->buttonExit->Text = L"Выход";
+			this->buttonExit->Text = L"llll";
 			this->buttonExit->UseVisualStyleBackColor = false;
 			this->buttonExit->Click += gcnew System::EventHandler(this, &MyForm::buttonExit_Click);
 			// 
@@ -142,7 +141,7 @@ namespace Prac2 {
 			this->buttonMenu->Name = L"buttonMenu";
 			this->buttonMenu->Size = System::Drawing::Size(227, 95);
 			this->buttonMenu->TabIndex = 6;
-			this->buttonMenu->Text = L"Меню";
+			this->buttonMenu->Text = L"llll";
 			this->buttonMenu->UseVisualStyleBackColor = false;
 			this->buttonMenu->Click += gcnew System::EventHandler(this, &MyForm::buttonMenu_Click);
 			// 
@@ -210,7 +209,7 @@ namespace Prac2 {
 			this->MaximizeBox = false;
 			this->Name = L"MyForm";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Аптека";
+			this->Text = L"llllllllllllllll";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox2))->EndInit();
